@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Downloads\\MauiAppTempoAgora_Parte_II\\MauiAppTempoAgora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED77119C-7567-0317-1D67-C5B3ECF04CC4}|MauiAppTempoAgora\\MauiAppTempoAgora.csproj|c:\\users\\victor\\downloads\\mauiapptempoagora_parte_ii\\mauiapptempoagora\\mauiapptempoagora\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED77119C-7567-0317-1D67-C5B3ECF04CC4}|MauiAppTempoAgora\\MauiAppTempoAgora.csproj|solutionrelative:mauiapptempoagora\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED77119C-7567-0317-1D67-C5B3ECF04CC4}|MauiAppTempoAgora\\MauiAppTempoAgora.csproj|c:\\users\\victor\\downloads\\mauiapptempoagora_parte_ii\\mauiapptempoagora\\mauiapptempoagora\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{ED77119C-7567-0317-1D67-C5B3ECF04CC4}|MauiAppTempoAgora\\MauiAppTempoAgora.csproj|solutionrelative:mauiapptempoagora\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED77119C-7567-0317-1D67-C5B3ECF04CC4}|MauiAppTempoAgora\\MauiAppTempoAgora.csproj|c:\\users\\victor\\downloads\\mauiapptempoagora_parte_ii\\mauiapptempoagora\\mauiapptempoagora\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED77119C-7567-0317-1D67-C5B3ECF04CC4}|MauiAppTempoAgora\\MauiAppTempoAgora.csproj|solutionrelative:mauiapptempoagora\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Downloads\\MauiAppTempoAgora_Parte_II\\MauiAppTempoAgora\\MauiAppTempoAgora\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppTempoAgora\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Victor\\Downloads\\MauiAppTempoAgora_Parte_II\\MauiAppTempoAgora\\MauiAppTempoAgora\\MainPage.xaml.cs*",
+              "RelativeToolTip": "MauiAppTempoAgora\\MainPage.xaml.cs*",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:42:28.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Downloads\\MauiAppTempoAgora_Parte_II\\MauiAppTempoAgora\\MauiAppTempoAgora\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "MauiAppTempoAgora\\Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\Victor\\Downloads\\MauiAppTempoAgora_Parte_II\\MauiAppTempoAgora\\MauiAppTempoAgora\\Services\\DataService.cs",
+              "RelativeToolTip": "MauiAppTempoAgora\\Services\\DataService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T14:05:58.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Victor\\Downloads\\MauiAppTempoAgora_Parte_II\\MauiAppTempoAgora\\MauiAppTempoAgora\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "MauiAppTempoAgora\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Victor\\Downloads\\MauiAppTempoAgora_Parte_II\\MauiAppTempoAgora\\MauiAppTempoAgora\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "MauiAppTempoAgora\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-05-11T12:17:08.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
